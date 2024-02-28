@@ -1,0 +1,23 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+^data
+^renv$
+^renv\.lock$
+^rsconnect
+*.Rproj
+data/
+Data/
+Data_SAS/
+Sample/
+Supplementary/
+*.rds
+*.knit.md
+rsconnect/
+R/key.R
+
+# log files
+bash_script_collection/docker_log_files
+
+
